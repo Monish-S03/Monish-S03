@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-s03" alt="monish-s03" /></a> </p>
 
 - 🌱 I’m currently learning **Mern**
-<img src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk2NjYyMjEsIm5iZiI6MTcyOTY2NTkyMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMjMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDIzVDA2NDUyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg5ZDhlYjEyNjUwMDkwNWZiMTNkNTkwNzU5ZDNhMmVlMjFiMTk5MWUyNjE4ZGJlOTdmMzBkYTdmYTUwNzViNjAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gjDMbL1qpu13i9BWBuWM2hCv06cVTn0OHg_cGDCV33E" alt="">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="">
 - 📫 How to reach me **monishsaravanan0311@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
