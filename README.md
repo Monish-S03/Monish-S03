@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Monish S</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monish-s03&label=Profile%20views&color=0e75b6&style=flat" alt="monish-s03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monish-s03" alt="monish-s03" /></a> </p>
 
-- 🌱 I’m currently learning **Mern**
+- 🌱 I’m currently learning **Full Stack Web Developer**
+
+- 💬 Ask me about **Javascript,React**
 
 - 📫 How to reach me **monishsaravanan0311@gmail.com**
 
